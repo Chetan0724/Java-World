@@ -1,4 +1,4 @@
-public class Ifelse {
+public class Ifelse_10 {
   public static void main(String[] args) {
 
     // if (condition) {

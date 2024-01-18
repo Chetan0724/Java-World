@@ -1,4 +1,4 @@
-public class Data {
+public class Data_04 {
   public static void main(String[] args) {
     byte number1 = 100;
     System.out.println(number1);

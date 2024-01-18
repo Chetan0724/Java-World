@@ -1,4 +1,4 @@
-public class Stringsone {
+public class Strings_02 {
   public static void main(String[] args) {
     // String Concatenation
     String firstName = "Chetan";

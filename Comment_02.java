@@ -1,4 +1,4 @@
-public class Comment {
+public class Comment_02 {
   public static void main(String[] args) {
     System.out.println("Chetan Yadav");
     System.out.println("Ips Academy Indore");

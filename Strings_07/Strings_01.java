@@ -1,4 +1,4 @@
-public class Strings {
+public class Strings_01 {
   public static void main(String[] args) {
     String name = "Chetan";
     System.out.println(name);

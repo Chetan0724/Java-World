@@ -1,4 +1,4 @@
-public class Num {
+public class Strings_03 {
   public static void main(String[] args) {
     int x = 7;
     int y = 3;

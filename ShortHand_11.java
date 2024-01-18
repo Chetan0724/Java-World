@@ -1,4 +1,4 @@
-public class ShortHand {
+public class ShortHand_11 {
   public static void main(String[] args) {
 
     // variable = (condition) ? expressionTrue :  expressionFalse;

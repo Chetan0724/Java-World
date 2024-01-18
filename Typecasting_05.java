@@ -1,4 +1,4 @@
-public class Typecasting {
+public class Typecasting_05 {
   public static void main(String[] args) {
     // Widening Casting
     int myInt = 7;

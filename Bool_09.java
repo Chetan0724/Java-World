@@ -1,4 +1,4 @@
-public class Bool {
+public class Bool_09 {
   public static void main (String[] args) {
     boolean drive = true;
     boolean play = false;

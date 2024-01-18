@@ -1,4 +1,4 @@
-public class Variables {
+public class Variables_03 {
   public static void main(String[] args) {
     // type variableName = value;
     String name = "Chetan";
